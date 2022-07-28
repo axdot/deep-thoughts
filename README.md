@@ -18,7 +18,7 @@ https://deep-thoughts-axdot.herokuapp.com/
 
 ## Images
 
-[SCREENSHOT OF DEEP THOUGHTS]
+![image](https://user-images.githubusercontent.com/54038283/181608333-17ea6c17-dce5-444d-bae3-91437c155a1c.png)
 
 ## Installation
 
