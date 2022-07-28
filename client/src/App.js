@@ -47,23 +47,23 @@ function App() {
           <div className="container">
             <Routes>
               <Route 
-                path="/" 
+                exact path="/" 
                 element={<Home />} 
               />
               <Route 
-                path="/login" 
+                exact path="/login" 
                 element={<Login />} 
               />
               <Route 
-                path="/signup" 
+                exact path="/signup" 
                 element={<Signup />} 
               />
+              <Route path="/profile">
+                <Route path=":username" element={<Profile />} />
+                <Route path="" element={<Profile />} /> 
+              </Route>
               <Route 
-                path="/profile/" 
-                element={<Profile />} 
-              />
-              <Route 
-                path="/thought/:id" 
+                exact path="/thought/:id" 
                 element={<SingleThought />} 
               />
               <Route 
