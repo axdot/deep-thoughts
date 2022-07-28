@@ -18,7 +18,12 @@ https://deep-thoughts-axdot.herokuapp.com/
 
 ## Images
 
+Homepage
 ![image](https://user-images.githubusercontent.com/54038283/181608333-17ea6c17-dce5-444d-bae3-91437c155a1c.png)
+
+Viewing Another User's Profile/Friendslist
+![image](https://user-images.githubusercontent.com/54038283/181608540-2b0698cc-dea6-4f9b-8e1a-13a8fcbd2727.png)
+
 
 ## Installation
 
